@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+}
+
+
+
+
+
+header{
+    background-image: url(pics/cloud.png);
+    height:100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+ul{
+    float:right;
+    list-style-type:none;
+    margin-top: 25px;
+}
+
+ul li{
+    display: inline-block;
+}
+
+
+ul li a{
+font-size: 20px;
+text-decoration:none;
+color:blanchedalmond;
+padding: 5px 20px;
+border: 1px solid rgb(0, 93, 129);
+}
+
+ul li a:hover{
+    background-color: blanchedalmond;
+    color: cornflowerblue;
+    transition:ease-out 1s;
+
+}
+
+
+h1{
+    text-align: center;
+    color: rgb(143, 184, 211);
+    font-size: 60px;
+}
+
+.pg1h{
+    background-image: url(pics/powder.jpg);
+    height:100%;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.pg1h1{
+    color: rgb(23, 162, 255);
+    text-align: left;
+}
+
+.left{ 
+   text-align: left;
+}
+
+
+.blue{
+    color: rgb(66, 161, 250);
+}
+
+.white{
+color: rgb(253, 253, 253);
+}
+
+.yellow{
+   color: yellow;
+}
+
+.right{
+    text-align: right;
+    
+}
+.green{
+    color: rgb(38, 231, 102);
+
+}   
+
+
+
+.black{
+    color: rgb(0, 0, 0);
+}
+
+
+.pg2h{
+    background-image: url(pics/digi.jpg);
+    height:100%;
+    background-size: cover;
+    background-position:center;
+    
+}
+
+.p2h1{
+    text-align: center;
+    width: 100%;
+    color:rgb(220, 227, 231) ;
+}
+
+.pic1{
+    text-align: center;
+    color: rgb(1, 7, 5);
+    background-color: rgba(76, 184, 223, 0.836);
+}   
+
+.pic2{
+    text-align: center;
+    color: rgb(3, 3, 3);
+    background-color: rgba(50, 209, 201, 0.575);
+
+}
+
+.pic3{
+    text-align:center;
+    color: rgb(255, 255, 255);
+    background-color: rgba(15, 134, 247, 0.733);
+    
+}.pg3h{
+    background-image: url(pics/code1.jpg);
+    height:100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.bluelft{
+    color: rgb(12, 12, 12);
+    text-align: start;
+}
+
+.bk3{
+     color:rgb(0, 0, 0) ;
+     background-color: rgb(52, 146, 235) ;
+     font-size: 20px;
+     font-weight: bold;
+     width: 50%;
+     text-align: center;
+     background-size:cover;
+}    
+
+   
+  
